@@ -15,8 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anajuliabonfim&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=1A120D&title_color=E2AE4C&text_color=FBF4E2&icon_color=E2AE4C&ring_color=E2AE4C&custom_title=GitHub%20da%20Ana&locale=pt-br" alt="Estatísticas do GitHub" height="170">
-  <img src="https://streak-stats.demolab.com?user=anajuliabonfim&locale=pt_BR&hide_border=true&background=1A120D&stroke=2B1D16&ring=E2AE4C&fire=E2AE4C&currStreakNum=FBF4E2&sideNums=FBF4E2&currStreakLabel=E2AE4C&sideLabels=BFA98C&dates=BFA98C" alt="Sequência de contribuições" height="170">
+  <img src="https://streak-stats.demolab.com?user=anajuliabonfim&locale=pt_BR&hide_border=true&background=1A120D&stroke=2B1D16&ring=E2AE4C&fire=E2AE4C&currStreakNum=FBF4E2&sideNums=FBF4E2&currStreakLabel=E2AE4C&sideLabels=BFA98C&dates=BFA98C" alt="Sequência de contribuições" width="60%">
 </p>
 
 <p align="center">
