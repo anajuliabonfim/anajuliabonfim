@@ -1,19 +1,33 @@
-![Ana Júlia Bonfim](header.svg)
+<p align="center">
+  <img src="hero.svg" alt="Ana Júlia Bonfim · Desenvolvimento Web Front-end · UEPB" width="100%">
+</p>
 
-Estudante de **Ciência da Computação na UEPB** e **Estagiária de Desenvolvimento Web no Rizoma**. Desenvolvo páginas front-end em Nuxt, Vue.js e TypeScript dentro de um fluxo profissional de Git: branches, pull requests e code review. Uso agentes de IA (Claude Code) também como ferramenta de desenvolvimento.
+<p align="center">
+  <img src="sobre.svg" alt="Sobre mim: estudante de Ciência da Computação na UEPB e estagiária de Desenvolvimento Web no Rizoma" width="100%">
+</p>
 
-### Experiência
+<p align="center">
+  <a href="https://mapadaparaiba.com.br"><img src="experiencia.svg" alt="Experiência: Estagiária de Desenvolvimento Web no Rizoma, Mapa da Paraíba" width="100%"></a>
+</p>
 
-[![Estagiária de Desenvolvimento Web no Rizoma](experiencia.svg)](https://mapadaparaiba.com.br)
+<p align="center">
+  <img src="stack.svg" alt="Nuxt, Vue.js, TypeScript, JavaScript, HTML, CSS, Python, Git, GitHub, Linear, Claude Code" width="100%">
+</p>
 
-### Stack
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anajuliabonfim&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=1A120D&title_color=E2AE4C&text_color=FBF4E2&icon_color=E2AE4C&ring_color=E2AE4C&custom_title=GitHub%20da%20Ana&locale=pt-br" alt="Estatísticas do GitHub" height="170">
+  <img src="https://streak-stats.demolab.com?user=anajuliabonfim&locale=pt_BR&hide_border=true&background=1A120D&stroke=2B1D16&ring=E2AE4C&fire=E2AE4C&currStreakNum=FBF4E2&sideNums=FBF4E2&currStreakLabel=E2AE4C&sideLabels=BFA98C&dates=BFA98C" alt="Sequência de contribuições" height="170">
+</p>
 
-![Nuxt, Vue.js, TypeScript, JavaScript, HTML, CSS, Python, Git, GitHub, Linear, Claude Code](stack.svg)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anajuliabonfim&bg_color=1A120D&color=BFA98C&line=E2AE4C&point=F7E3A6&area=true&area_color=E2AE4C&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es" alt="Gráfico de contribuições" width="100%">
+</p>
 
-### Idiomas
+<p align="center">
+  <a href="https://www.linkedin.com/in/anajuliabonfim/"><img src="btn-linkedin.svg" alt="LinkedIn" height="44"></a>
+  <a href="mailto:anajuliaabonfim@gmail.com"><img src="btn-email.svg" alt="anajuliaabonfim@gmail.com" height="44"></a>
+</p>
 
-Português (nativo) · Inglês (fluente)
-
-### Contato
-
-[![LinkedIn](btn-linkedin.svg)](https://www.linkedin.com/in/anajuliabonfim/) [![E-mail](btn-email.svg)](mailto:anajuliaabonfim@gmail.com)
+<p align="center">
+  <img src="rodape.svg" alt="created to create" width="100%">
+</p>
